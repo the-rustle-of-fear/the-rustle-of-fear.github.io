@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0050255.css",
+    "main.js": "/static/js/main.25d1d714.js",
+    "static/media/marvel_starter.jpg": "/static/media/marvel_starter.33d8031dcb1a5a0a3137.jpg",
+    "static/media/phplogo.svg": "/static/media/phplogo.1ee459258a14d6d5a0100c0e5a27b191.svg",
+    "static/media/react.svg": "/static/media/react.49880c79b4cf6fac6eeb1ff6f1aa1c95.svg",
+    "static/media/jquery.svg": "/static/media/jquery.192ebfb6991cec8896e9d5e4da6f0450.svg",
+    "static/media/sass.svg": "/static/media/sass.cf35f9a910cf486609c2d0493bc0ea4d.svg",
+    "static/media/icons.svg?flq5kb": "/static/media/icons.1712f24c35f839c5a4d5.svg",
+    "static/media/icons.eot?flq5kb": "/static/media/icons.3bcc16dfcc8e0b94e162.eot",
+    "static/media/icons.woff?flq5kb": "/static/media/icons.9a1f9495840c3abb5ce4.woff",
+    "static/media/icons.ttf?flq5kb": "/static/media/icons.e9d6a87a4c7c62c0964a.ttf",
+    "static/media/mailpost.php": "/static/media/mailpost.df6e0398166f9fc7ade4.php",
+    "static/media/html5.svg": "/static/media/html5.359612fd63614a7ab28e8932982a7960.svg",
+    "static/media/css3.svg": "/static/media/css3.e429c28db4d35e3bb6341570f3b74265.svg",
+    "static/media/js.svg": "/static/media/js.656b841c79fca81fe0cd5e69458ae05b.svg",
+    "static/media/figma.svg": "/static/media/figma.93343e1fb8f0b43056dba1dbb8c8b4c0.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.c3a5c818ac5f4406b4396cb04196ecdc.svg",
+    "index.html": "/index.html",
+    "main.a0050255.css.map": "/static/css/main.a0050255.css.map",
+    "main.25d1d714.js.map": "/static/js/main.25d1d714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0050255.css",
+    "static/js/main.25d1d714.js"
+  ]
+}
