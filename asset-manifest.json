@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d0a6a53.css",
-    "main.js": "/static/js/main.cf99952f.js",
+    "main.js": "/static/js/main.6e1e37cd.js",
     "static/media/Irvis.jpg": "/static/media/Irvis.0435403425160b368b94.jpg",
     "static/media/marvel_starter.jpg": "/static/media/marvel_starter.33d8031dcb1a5a0a3137.jpg",
     "static/media/phplogo.svg": "/static/media/phplogo.1ee459258a14d6d5a0100c0e5a27b191.svg",
@@ -23,10 +23,10 @@
     "static/media/webpack.svg": "/static/media/webpack.f723124e9ced36cc1e58260579c1ff00.svg",
     "static/media/bootstrap.svg": "/static/media/bootstrap.c3a5c818ac5f4406b4396cb04196ecdc.svg",
     "main.6d0a6a53.css.map": "/static/css/main.6d0a6a53.css.map",
-    "main.cf99952f.js.map": "/static/js/main.cf99952f.js.map"
+    "main.6e1e37cd.js.map": "/static/js/main.6e1e37cd.js.map"
   },
   "entrypoints": [
     "static/css/main.6d0a6a53.css",
-    "static/js/main.cf99952f.js"
+    "static/js/main.6e1e37cd.js"
   ]
 }
